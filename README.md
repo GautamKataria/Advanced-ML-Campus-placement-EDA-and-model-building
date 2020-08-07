@@ -5,7 +5,7 @@ Campus placements are a very important thing for every student persuing a degree
 One day i stumbled upon a dataset of campus placements for MBA students
 So i took it as an opportunity to learn more about placements.
 
-Link to Kaggle dataset: [dataset](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
+Link to Kaggle dataset: [Here](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
 
 ## Working
 ##### The jupyter notebook has the complete Exploratory data analysis done on this dataset from which i was able to gather many interesting observations.
